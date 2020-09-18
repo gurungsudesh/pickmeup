@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752705424022",
+    "firebase_url": "https://pickmeup-2f26f.firebaseio.com",
+    "project_id": "pickmeup-2f26f",
+    "storage_bucket": "pickmeup-2f26f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752705424022:android:cdb7ed95a7d2a721aa10b7",
+        "android_client_info": {
+          "package_name": "com.example.flutterLogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752705424022-9plunf1os7rtut452ujkbl76nhrgnk67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0mPBmlpy2kbS600GsYc7kE9PlLenfVhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752705424022-9plunf1os7rtut452ujkbl76nhrgnk67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752705424022-446vbniosvj74va53bvrcd3v2pfe999r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

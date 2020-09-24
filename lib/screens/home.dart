@@ -25,13 +25,13 @@ class _HomePageState extends State<HomePage> {
           )
         ],
       ),
-      // body: GoogleMap(
-      //   initialCameraPosition: CameraPosition(
-      //     target: LatLng(28.209499, 83.959518),
-      //     zoom: 12,
-      //   ),
-      //   myLocationEnabled: true,
-      // ),
+      body: GoogleMap(
+        initialCameraPosition: CameraPosition(
+          target: LatLng(28.209499, 83.959518),
+          zoom: 12,
+        ),
+        myLocationEnabled: true,
+      ),
     );
   }
 }

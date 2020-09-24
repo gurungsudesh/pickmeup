@@ -5,7 +5,7 @@ import 'package:flutterLogin/services/auth.dart';
 import 'package:flutterLogin/wrapper/wrapper.dart';
 import 'package:provider/provider.dart';
 
-void main() async {
+Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   runApp(MyApp());
